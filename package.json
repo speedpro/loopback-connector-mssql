@@ -1,6 +1,6 @@
 {
   "name": "@speedpro/loopback-connector-mssql",
-  "version": "3.8.2",
+  "version": "3.8.3",
   "description": "Microsoft SQL Server connector for LoopBack",
   "engines": {
     "node": ">=8"
