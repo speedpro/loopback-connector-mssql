@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-mssql",
-  "version": "3.8.4",
+  "version": "3.8.5",
   "description": "Microsoft SQL Server connector for LoopBack",
   "engines": {
     "node": ">=8"
@@ -16,11 +16,11 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "async": "^3.1.0",
-    "debug": "^4.1.1",
-    "loopback-connector": "^4.8.0",
-    "mssql": "^6.0.0",
-    "strong-globalize": "^5.0.0"
+    "async": ">3.1.0",
+    "debug": ">4.1.1",
+    "loopback-connector": ">4.8.0",
+    "mssql": ">6.0.0",
+    "strong-globalize": ">5.0.0"
   },
   "devDependencies": {
     "bluebird": "^3.5.5",
